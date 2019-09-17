@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e510c5d-9a97-4bfd-bb11-648075eefe08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/.ipynb_checkpoints/code-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/.ipynb_checkpoints/linear regression and gradient boosting regessor code-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/source/.ipynb_checkpoints/linear regression and gradient boosting regessor code-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/linear regression and gradient boosting regessor code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/source/linear regression and gradient boosting regessor code.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logestic_regression_ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
